@@ -29,7 +29,7 @@ def color_quantization(img, k):
   result = result.reshape(img.shape)
   return result
 #calling fun read_image()
-file_name=r"E:\\my python\photo into cartoons\t11.jpg"
+file_name= # add your file name here
 img=read_file(file_name)
 
 line_blue=7
